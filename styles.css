@@ -160,6 +160,13 @@ nav ul.artifact-menu {
   border-bottom: 1px solid var(--border);
 }
 
+.cover-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 1.5rem 0;
+}
+
 .eyebrow {
   margin: 0 0 0.75rem;
   color: var(--accent);
