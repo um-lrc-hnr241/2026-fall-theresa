@@ -1,10 +1,10 @@
 :root {
-  --text: #21133b;
-  --muted: #514267;
-  --background: #fff9f0;
-  --accent: #6b21a8;
-  --border: #e8d5f2;
-  --surface: #f4e8ff;
+  --text: #3b2418;
+  --muted: #654b3c;
+  --background: #fff7eb;
+  --accent: #8a3f19;
+  --border: #e8c9a8;
+  --surface: #f7e5cf;
   --max-width: 68rem;
 }
 
@@ -162,8 +162,8 @@ nav a[aria-current="page"] {
 }
 
 .button:hover {
-  background: #104638;
-  border-color: #104638;
+  background: #6b2e12;
+  border-color: #6b2e12;
 }
 
 .button:focus-visible,
