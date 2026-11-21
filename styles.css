@@ -167,6 +167,15 @@ nav ul.artifact-menu {
   margin: 1.5rem 0;
 }
 
+.document-embed {
+  display: block;
+  width: 100%;
+  min-height: 70vh;
+  margin: 1.5rem 0;
+  border: 1px solid var(--border);
+  background: #fff;
+}
+
 .eyebrow {
   margin: 0 0 0.75rem;
   color: var(--accent);
